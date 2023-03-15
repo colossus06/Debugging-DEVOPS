@@ -9,6 +9,7 @@ Removed the trailing forward slash. Verified that i could get response from the 
 
 <details>
   <summary>See the log</summary>
+  
 ```
 hudson.remoting.ProxyException: net.sf.json.JSONException: Invalid JSON String
 	at net.sf.json.JSONSerializer.toJSON(JSONSerializer.java:143)
