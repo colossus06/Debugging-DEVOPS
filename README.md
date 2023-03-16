@@ -237,3 +237,14 @@ To add an exception for this directory, call:
 
 ![image](https://user-images.githubusercontent.com/96833570/225380412-cefc6b9c-40a5-4ff8-8704-035d812d3310.png)
 
+
+## 3 This repository moved. Please use the new location
+
+
+
+Solution: 
+```bash
+git remote rm origin
+git remote add origin new-link
+```
+
